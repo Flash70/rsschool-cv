@@ -1,4 +1,4 @@
-![mountains](./images/avatar1.jpg)
+![mountains](./images/avatar.jpg)
 # Sinyazhnikov Dimitriy
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-I am 35 years old, at the moment I do not work. I devote all my time to training.
+I am 35 years old, at the moment I do not work. I devote all my time to training. I see my future in front-end development.
 
 * __My strengths:__
   + Quick learner
